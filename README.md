@@ -38,19 +38,7 @@ A simple React application that displays the latest news headlines by category u
 6. **Open in browser:**
    - Visit [http://localhost:5173](http://localhost:5173) (or the port shown in your terminal).
 
-## Project Structure
 
-```
-src/
-  Components/
-    Navbar.jsx
-    NewsBoard.jsx
-    NewsItem.jsx
-  assets/
-    news.png
-  App.jsx
-  main.jsx
-```
 
 ## Dependencies
 
